@@ -255,13 +255,13 @@ img{
 
 .home__img{
 	position: absolute;
-	right: 0;
+	right: 10%;
 	bottom: 0;
-	width: 250px;
+	width: 200px;
 }
 
 .home__img img{
-	border-radius: 50rem;
+	border-radius: 2rem;
 }
 
 /* == Buttons == */
@@ -495,8 +495,8 @@ img{
 		margin-right: var(--mb-4);
 	}
 	.home__img{
-		width: 457px;
-		bottom: 15%;
+		width: 400px;
+		bottom: 20%;
 	}
 
 	.about__container, .skills__container{
