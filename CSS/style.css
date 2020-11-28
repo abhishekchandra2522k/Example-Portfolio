@@ -333,10 +333,9 @@ img{
 
 .skills__name{
 	display: flex;
-	align-items: center;
 }
 
-.skills__bar{
+/* .skills__bar{
 	position: absolute;
 	left: 0;
 	bottom: 0;
@@ -344,9 +343,9 @@ img{
 	height: .25rem;
 	border-radius: .5rem;
 	z-index: var(--z-back);
-}
+} */
 
-.skills__html{
+/* .skills__html{
 	width: 95%;
 }
 .skills__python{
@@ -357,7 +356,7 @@ img{
 }
 .skills__ml{
 	width: 85%;
-}
+} */
 
 .skills__img{
 	border-radius: .5rem;
